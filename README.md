@@ -1,4 +1,4 @@
 # 30daysOfJavascript
 
-Just a repository with vanilla html, css and javascript projects.
+Just a repository with vanilla javascript, html and css projects.
 
