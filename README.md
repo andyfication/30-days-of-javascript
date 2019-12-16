@@ -16,5 +16,5 @@
 
 ## Source
 
->  <a href = "https://javascript30.com/">30DaysOfJavascript</a>
+>  <a href = "https://javascript30.com/">View the 30DaysOfJavascript website</a>
 
